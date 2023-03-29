@@ -10,7 +10,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=prosotG&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dvelx&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
@@ -32,7 +32,7 @@
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prosotG&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prostoG&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvelx&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
