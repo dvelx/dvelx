@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://t.me/dvelx">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=website&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
     </a>
   </div>
   
