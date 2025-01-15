@@ -2,9 +2,10 @@
   <img src="https://github.com/prostoG/prostoG/blob/main/banner-904884_1920.jpg" height="250"/>
   
   <div id="badges">
-    <a href="https://vk.com/andreikooooo">
+    <!-- <a href="https://vk.com/andreikooooo">
       <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-    </a>
+    </a> 
+    -->
     <a href="https://t.me/dvelx">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
